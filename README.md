@@ -76,7 +76,7 @@ Task 2 AIML/
 ![Heatmap](correlation_heatmap.png)
 
 ### Pairplot  
-![Pairplot](pairplot.png)
+![Pairplot](pairplot_selected.png)
 
 ---
 
