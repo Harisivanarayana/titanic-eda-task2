@@ -72,6 +72,12 @@ Task 2 AIML/
 ### Fare Distribution  
 ![Fare Distribution](fare_distribution.png)
 
+### 🔹 3. Boxplot of Age
+![Boxplot Age](boxplot_age.png)
+
+### 🔹 4. Boxplot of Fare
+![Boxplot Fare](boxplot_fare.png)
+
 ### Correlation Heatmap  
 ![Heatmap](correlation_heatmap.png)
 
